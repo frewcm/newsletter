@@ -37,7 +37,7 @@ const options = {
     auth: "frew:033a4cf4718a8d3675ac317d7c77dd81-us20"
 }
 
-const url = 'https://us20.api.mailchimp.com/3.0/lists/e179016e6'
+const url = 'https://us20.api.mailchimp.com/3.0/lists/e179016e60'
 
 
 const request = https.request(url, options, function(response){
